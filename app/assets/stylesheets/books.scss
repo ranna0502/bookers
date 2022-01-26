@@ -1,3 +1,33 @@
 // Place all the styles related to the books controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+th {
+  padding-bottom: 5px;
+}
+
+h1 {
+  margin: 17px 0;
+}
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+h2 {
+  margin: 16px 0;
+}
+
+label {
+  display: block;
+}
+
+div.field,div.actions {
+  margin-bottom: 10px;
+}
+
+.actions > input {
+  padding: 1px 6px;
+}
